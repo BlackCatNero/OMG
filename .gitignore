@@ -61,3 +61,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+Library
+Temp
+*. pidb
+*. unityproj
+* .. sln
+*. userprefs
